@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a DevOps and Cloud Engineer with over 2 years of experience in building scalable and automated infrastructure. Passionate about cloud computing, CI/CD, and AI integrations, I love working on projects that bridge the gap between development and operations.
+I'm a DevOps and Cloud Engineer with over 2.5 years of experience in building scalable and automated infrastructure. Passionate about cloud computing, CI/CD, and AI integrations, I love working on projects that bridge the gap between development and operations.
 
 🎥 YouTube Content Creator at Cloud Baba - Teaching cloud technologies.
 
@@ -20,7 +20,7 @@ Cloud & DevOps: AWS, Azure, Docker, Kubernetes, Terraform, CI/CD (GitLab CI, Jen
 
 Backend: Django, Laravel, FastAPI (learning)
 
-Frontend: React.js, Next.js
+Frontend: React.js, Next.js, Vue.js
 
 Databases: PostgreSQL, MySQL
 
@@ -28,7 +28,7 @@ AI/ML: Amazon Bedrock, Anthropic, Gemini AI,, Amazon Lex
 
 ## 🌱 Open Source & Projects
 
-🔹 Supportify - AI-powered customer support tool with Django & MongoDB Atlas.
+🔹 Supportify - AI-powered customer support tool with Django.
 
 🔹 Pathology Lab Report Web App - Full-stack app with React and Django.
 
@@ -36,7 +36,7 @@ AI/ML: Amazon Bedrock, Anthropic, Gemini AI,, Amazon Lex
 
 ## 📩 Connect with Me
 
-LinkedIn: linkedin.com/in/abhishekpanda
+LinkedIn: linkedin.com/in/abhishekpanda1999
 
 YouTube: Cloud Baba 
 
