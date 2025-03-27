@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">A passionate DevOps Engineer. I work in the Corporate IT Sector </h3>
+<h3 align="center">🚀 Passionate DevOps Engineer | Cloud Enthusiast | IT Professional</h3>
 
 <p align="center">
   <a href="https://github.com/abhishekpanda0620">
@@ -73,9 +73,8 @@
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
+🤝 Open to **Project Collaborations **  
 💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
+📧 Let’s chat: [abhishek.panda0620@gmail.com](mailto:abhishek.panda0620@gmail.com)
 
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
