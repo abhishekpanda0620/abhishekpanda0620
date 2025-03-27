@@ -1,46 +1,81 @@
-### Hi there, I'm Abhishek Panda! 👋
+<h1 align="center">Hello 👋, I'm Abhishek Panda</h1>
 
-## 🚀 About Me
 
-I'm a DevOps and Cloud Engineer with over 2.5 years of experience in building scalable and automated infrastructure. Passionate about cloud computing, CI/CD, and AI integrations, I love working on projects that bridge the gap between development and operations.
 
-🎥 YouTube Content Creator at Cloud Baba - Teaching cloud technologies.
+<h3 align="center">A passionate DevOps Engineer. I work in the Corporate IT Sector </h3>
 
-🏗️ Experienced in AWS, Kubernetes, Docker, Terraform, CI/CD (GitLab, Jenkins).
+<p align="center">
+  <a href="https://github.com/abhishekpanda0620">
+    <img src="https://img.shields.io/github/followers/abhishekpanda0620?label=Follow&style=social" />
+  </a>
 
-🤖 Building AI-powered applications using Amazon Bedrock, Anthropic, and Django.
+  <a href="https://www.linkedin.com/in/abhishek-panda1999">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Panda-blue?logo=linkedin&style=flat-square" />
+  </a>
+</p>
 
-🏗️ Creating full-stack applications with React and Django.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🛠️ Currently working on a resume tailoring AI software.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhishekpanda0620&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## 🔧 Tech Stack
+- 💬 Ask me about **DevOps & Cloud Engineering**  
+- 📫 How to reach me **abhishek.panda0620@gmail.com**
 
-Cloud & DevOps: AWS, Azure, Docker, Kubernetes, Terraform, CI/CD (GitLab CI, Jenkins, Github Actions)
+---
 
-Backend: Django, Laravel, FastAPI (learning)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/abhishek-panda1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
 
-Frontend: React.js, Next.js, Vue.js
+---
 
-Databases: PostgreSQL, MySQL
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="Google Cloud" width="40" height="40">  
 
-AI/ML: Amazon Bedrock, Anthropic, Gemini AI,, Amazon Lex
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="Terraform" width="40" height="40">  
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40" height="40">  
+  <img src="https://cdnlogo.com/logos/l/57/laravel.svg" alt="Laravel" width="40" height="40">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="40" height="40">
+</p>
 
-## 🌱 Open Source & Projects
 
-🔹 Supportify - AI-powered customer support tool with Django.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpanda0620&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
-🔹 Pathology Lab Report Web App - Full-stack app with React and Django.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekpanda0620&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
-🔹 Resume Tailoring Software - AI-powered resume customization using Gemini AI.
+---
+### 🔥 GitHub Contribution Streak
 
-## 📩 Connect with Me
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
-LinkedIn: linkedin.com/in/abhishekpanda1999
+---
 
-YouTube: Cloud Baba 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abhishekpanda0620&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-GitHub: abhishekpanda0620
+---
 
-🚀 Always open to collaborations and new opportunities! Let's connect and innovate together. 🤝
+### 👨‍💼 About Me & 🤝 Open to Collaborations
 
+🎤 Available for **Guest Sessions / Webinars**  
+🤝 Open to **Project Collaborations / YouTube Collabs**  
+💼 Offering **DevOps Consulting / Mentorship**  
+📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
+
+> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
