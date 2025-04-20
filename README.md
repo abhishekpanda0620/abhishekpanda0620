@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">🚀 Passionate DevOps Engineer | Cloud Enthusiast | IT Professional</h3>
+<h3 align="center">🚀 Passionate DevOps Engineer | Cloud Engineer | IT Professional</h3>
 
 <p align="center">
   <a href="https://github.com/abhishekpanda0620">
@@ -71,7 +71,6 @@
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🤝 Open to **Project Collaborations **  
-💼 Offering **DevOps Consulting / Mentorship**  
+🤝 Open to **Project Collaborations **    
 📧 Let’s chat: [abhishek.panda0620@gmail.com](mailto:abhishek.panda0620@gmail.com)
 
