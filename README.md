@@ -71,8 +71,7 @@
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🤝 Open to **Project Collaborations **    
+🤝 Open to **Project Collaborations**    
 📧 Let’s chat: [abhishek.panda0620@gmail.com](mailto:abhishek.panda0620@gmail.com)
 
