@@ -64,8 +64,6 @@
   <img src="https://streak-stats.demolab.com?user=abhishekpanda0620&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
 ---
 
 ### 🔝 Top Contributed Repo
