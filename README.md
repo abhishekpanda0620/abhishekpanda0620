@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Abhishek Panda</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Panda</h1>
 
 
 
@@ -19,9 +19,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abhishekpanda0620&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-- 💬 Ask me about **DevOps & Cloud Engineering**  
-- 📫 How to reach me **abhishek.panda0620@gmail.com**
 
 ---
 
