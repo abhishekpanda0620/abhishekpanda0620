@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center"> DevOps Engineer | Cloud Engineer | IT Professional</h3>
+<h3 align="center"> DevOps Engineer | Cloud Engineer </h3>
 
 <p align="center">
   <a href="https://github.com/abhishekpanda0620">
