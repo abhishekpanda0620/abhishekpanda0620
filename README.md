@@ -30,9 +30,13 @@
 
 ```
 👨‍💻 DevOps Engineer | Cloud Infrastructure Specialist | Automation Enthusiast
+
 🎯 Building scalable, reliable, and automated cloud infrastructure
+
 🚀 Passionate about CI/CD pipelines, containerization, and infrastructure-as-code
+
 💡 Turning complex problems into elegant, automated solutions
+
 🌍 Contributing to open-source and tech community
 ```
 
